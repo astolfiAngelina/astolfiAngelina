@@ -12,9 +12,8 @@ Seja bem vindo ao meu perfil profissional! Sou estudante de Desenvolvimento de s
 
 - 
 # 📬 Formas de contato
-**GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-0.0.0-black?style=flat-square&logo=github&logoColor=white)](https://github.com/astolfiAngelina)
-**WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-0.0.0-brightgreen?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5516994125027)
-**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0.0.0-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-astolfi-082920268/)
+
+ [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=flat-square&logo=github&logoColor=white)](https://github.com/astolfiAngelina)[![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5516994125027)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-astolfi-082920268/)
 
 <!---
 astolfiAngelina/astolfiAngelina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
